@@ -35,6 +35,5 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I'm cool
 --->
 
-![](https://github-readme-stats.vercel.app/api?username=mali2395&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mali2395&theme=highcontrast&hide_border=false&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mali2395&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00) ![](https://github-readme-streak-stats.herokuapp.com/?user=mali2395&theme=highcontrast&hide_border=false&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mali2395&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00)
