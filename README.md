@@ -52,3 +52,4 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mali2395&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00)
