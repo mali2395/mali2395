@@ -53,3 +53,24 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mali2395&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00)
+
+
+------------------------------------------
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mansoorali1&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF00&icon_color=00FF00" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorali1&theme=highcontrast&hide_border=false&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorali1&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00" />
+      </td>
+    </tr>
+  </table>
+</div>
+
