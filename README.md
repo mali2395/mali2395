@@ -16,7 +16,7 @@
 <br/>
 <br>
 <br/>
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mansoor-ali-shaik23/" target="blank">
@@ -24,13 +24,13 @@
 </a>
 
 </p>
-<hr>
+
 <h3 align="left">Languages and Tools:</h3>    
 <div align="left">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,flask,git,heroku,mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql,python,pytorch,sklearn,rtensorflow" /><br>
 </div>
-
+<br/>
 <!---
 mali2395/mali2395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,8 +43,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm cool
---->
 <hr>
+--->
+
 
 <div align="center">
   <table>
